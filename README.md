@@ -7,11 +7,20 @@ Descrição do desafio: Criar um relatório mais elaborado com base na Sample Fi
 </div>
 
 
-## Como acessar este desafio no pc?
+## Como acessar este desafio pelo pc?
   1. Instale o Power BI Desktop em seu computador
   2. Baixe o arquivo .pbix disponibilizado neste repositório
   3. Após instalar o Power BI Desktop, selecione Arquivo > Importar > Modelo do Power BI > Todos os arquivos
   4. Em seguida selecione o arquivo .pbix
+
+## Como acessar este desafio por dispositivos móveis?
+  1. Instale o Power BI em seu celular
+  2. Faça login <strong>(Lembrando que é necessário ter uma conta corporativa ou estudantil para ter acesso ao relatório)<strong/>
+  3. Escaneie o QR Code abaixo:
+
+<div align="center">
+  <img src="https://github.com/mariialbano/PowerBI-Analyst/blob/cadb7dd288c8efc0696aae7d9858e20297195c13/desafio-projeto-analyst.jpg"/>
+</div>
 
 
 ## Links úteis
