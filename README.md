@@ -1,6 +1,12 @@
 # Desafio de Projeto DIO
 Descrição do desafio: Criar um relatório mais elaborado com base na Sample Financials do Power BI.
 
+<div align="center">
+  <img src="https://github.com/mariialbano/PowerBI-Analyst/blob/0b38e764a7b247c581a96c7cf1246dc25f663655/captura1.png" width="80%"/>
+  <img src="https://github.com/mariialbano/PowerBI-Analyst/blob/0b38e764a7b247c581a96c7cf1246dc25f663655/captura2.png" width="80%"/>
+</div>
+
+
 ## Como acessar este desafio no pc?
   1. Instale o Power BI Desktop em seu computador
   2. Baixe o arquivo .pbix disponibilizado neste repositório
